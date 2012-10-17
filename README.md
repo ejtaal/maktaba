@@ -9,7 +9,22 @@ For the student of arabic and islamic sciences in general there exist several we
 - Place books on your own virtual shelf/book case
 - Share books with others
 - Search inside books where the source format allows indexing (non-images)
+- read/write reviews of books
+- rate books
+- Create bookmarks of pages/parts of pages
+	- Bookmarks may be linked to descriptions of authors and books and other things as well?
+	- These can then be rated as well so that the best descriptions rise to the top
 - ...
+
+Software identified
+===================
+
+Some software packages have been identified as possible starting points for the customizations that my desired list of features would necessitate:
+- Wikindx
+- Bibsonomy
+
+Both seem to provide very nice web interfaces and overall structure, however neither is complete for the requirements that I have.
+
 
 Source materials
 ================
@@ -20,3 +35,4 @@ Plugins will have to be written to allow adding content from the following websi
 - archive.org
 - rapidshare/ 4share (?)
 - ...
+
