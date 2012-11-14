@@ -15,6 +15,9 @@ For the student of arabic and islamic sciences in general there exist several we
  - Bookmarks may be linked to descriptions of authors and books and other things as well?
  - These can then be rated as well so that the best descriptions rise to the top
  - Allow bookmarks to be arranged in groups (General, To Read, Research Topic A, ...)
+- The project should be sufficiently self-maintaining (crawling certain websites looking for new titles) and 
+documented that any sufficiently knowledgeable IT person can duplicate the entire site and let the software re-download
+any content and re-index it. User data however would be problematic as that of course.
 - ...
 
 Software identified
